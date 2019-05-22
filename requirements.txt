@@ -1,1 +1,17 @@
--e .
+attrs==19.1.0
+aws-cdk.aws-applicationautoscaling==0.31.0
+aws-cdk.aws-autoscaling-common==0.31.0
+aws-cdk.aws-cloudwatch==0.31.0
+aws-cdk.aws-dynamodb==0.31.0
+aws-cdk.aws-iam==0.31.0
+aws-cdk.cdk==0.31.0
+aws-cdk.cx-api==0.31.0
+aws-cdk.region-info==0.31.0
+cattrs==0.9.0
+importlib-resources==1.0.2
+jsii==0.10.5
+mypy-extensions==0.4.1
+publication==0.0.3
+python-dateutil==2.8.0
+six==1.12.0
+typing-extensions==3.7.2
